@@ -13,3 +13,7 @@ Contains samples to experiment with
 ## Section 2
 
 Try out diiferent operations with the git repo
+
+## Section 3
+
+Try to compare and merge the files
